@@ -25,6 +25,6 @@ if (imc < 18.5) {
     console.log("Você está acima do peso!")
 } else if (imc >= 30 && imc < 40) {
     console.log("Você está obeso!")
-} else if (imc > 40) (
+} else if (imc > 40) {
     console.log("Você está com obesidade grave!")
-)
+}
